@@ -1,0 +1,17 @@
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\bin\Debug\OraCare.exe.config
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\bin\Debug\OraCare.exe
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\bin\Debug\OraCare.pdb
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.csproj.AssemblyReference.cache
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.csproj.SuggestedBindingRedirects.cache
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.LoadingWindow.resources
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.Properties.Resources.resources
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.csproj.GenerateResource.cache
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.exe
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.pdb
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.MainWindow.resources
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.SignupWindow.resources
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.LoginWindow.resources
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.AppointmentWindow.resources
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.doctorsWindow.resources
+C:\Users\saman\OneDrive\Documents\Academic\2nd year - 2nd sem\Application Development and Emerging Technologies\Assessments\OraCare\OraCare\obj\Debug\OraCare.Form7.resources
